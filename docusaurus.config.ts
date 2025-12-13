@@ -18,12 +18,12 @@ const config: Config = {
   url: 'https://dev-lukas0.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/rbxts-centurion-commands/',
+  baseUrl: '/rbxts-centurion-commands-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dev-lukas0',
-  projectName: 'rbxts-centurion-commands',
+  projectName: 'rbxts-centurion-commands-docs',
   deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
