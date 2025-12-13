@@ -24,6 +24,7 @@ const config: Config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dev-lukas0',
   projectName: 'centurion-commands-docs',
+  trailingSlash: true,
   //deploymentBranch: 'gh-pages',
 
   onBrokenLinks: 'throw',
